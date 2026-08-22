@@ -26,9 +26,10 @@ I care about readable code, thoughtful UX, and projects that can be explained cl
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [WinForms Profile Card Demo](https://github.com/sari-73/team_progect) | C# WinForms, form controls, image selection, print preview | Being documented |
-| Property Hub | Arabic-first real-estate discovery interface | In preparation |
-| Quality Signals Lab | API and UI testing examples with bug-report templates | In preparation |
+| [WinForms Profile Card Demo](https://github.com/sari-73/winforms-profile-card-demo) | C# WinForms, form controls, image selection, print preview | Documented learning project |
+| [Property Hub](https://github.com/sari-73/property-hub) | Arabic-first real-estate discovery interface with interactive filters | Featured web project |
+| [WorkOrder Suite](https://github.com/sari-73/work-order-suite) | .NET 8 domain workflow, validation, CLI demo, and automated checks | Featured C# project |
+| [Quality Signals Lab](https://github.com/sari-73/quality-signals-lab) | Python API contract checks, reports, tests, and CI | Featured QA project |
 
 ## Working principles
 
