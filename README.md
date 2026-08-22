@@ -30,6 +30,9 @@ I care about readable code, thoughtful UX, and projects that can be explained cl
 | [Property Hub](https://github.com/sari-73/property-hub) | Arabic-first real-estate discovery interface with interactive filters | Featured web project |
 | [WorkOrder Suite](https://github.com/sari-73/work-order-suite) | .NET 8 domain workflow, validation, CLI demo, and automated checks | Featured C# project |
 | [Quality Signals Lab](https://github.com/sari-73/quality-signals-lab) | Python API contract checks, reports, tests, and CI | Featured QA project |
+| [Intent Route AI](https://github.com/sari-73/intent-route-ai) | Explainable Python text classification with evaluation and CI | Featured AI project |
+| [Evidence RAG Lab](https://github.com/sari-73/evidence-rag-lab) | Citation-first local retrieval and grounded answer composition | Featured AI project |
+| [Resilient Notification Dispatcher](https://github.com/sari-73/resilient-notification-dispatcher) | .NET 8 idempotent dispatch, transient retries, and CI | Featured C# project |
 
 ## Working principles
 
