@@ -1,68 +1,45 @@
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sari_73" alt="Workspace"  width="40%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sari_73" alt="Hello Coders" width="60%"/>
-<h1 align="center">Hi, I'm Sari_73!</h1>
-<h3 align="center">A Third-Year Computer Science Student and Developer</h3>
+<div align="center">
+  <img src="https://github.com/sari-73.png" width="112" alt="Sari Al-awdhi profile photo" />
+  <h1>Sari Al-awdhi</h1>
+  <p><strong>Computer Science Student · Software Developer</strong></p>
+  <p>Building practical, well-documented software with a focus on clear interfaces, strong fundamentals, and useful user experiences.</p>
 </div>
 
-<hr></hr>
+---
+
+## About me
+
+I am a third-year Computer Science student interested in turning ideas into reliable software. My current foundation includes **C#**, **Java**, **C++**, **HTML**, and **CSS**, alongside Git-based workflows and front-end development.
+
+I care about readable code, thoughtful UX, and projects that can be explained clearly—not just demos that look good in a screenshot. This profile is being organized as a focused portfolio of original projects and learning work.
+
+## Current focus
+
+| Area | What I am building and improving |
+| --- | --- |
+| Software engineering | C# fundamentals, clean project structure, and desktop application patterns |
+| Web development | Responsive Arabic-first interfaces, semantic HTML, CSS, and modern component-based workflows |
+| Quality | Documentation, repeatable setup instructions, and practical testing habits |
+| Problem solving | Data structures, algorithms, and translating requirements into small deliverable milestones |
+
+## Selected work
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| [WinForms Profile Card Demo](https://github.com/sari-73/team_progect) | C# WinForms, form controls, image selection, print preview | Being documented |
+| Property Hub | Arabic-first real-estate discovery interface | In preparation |
+| Quality Signals Lab | API and UI testing examples with bug-report templates | In preparation |
+
+## Working principles
+
+> I only publish work I can explain, run, and improve. Each featured repository should include a clear README, setup steps, screenshots or a demo where appropriate, and no exposed secrets.
+
+## Contact
+
+For project discussion or collaboration, reach me through the contact method listed on my GitHub profile.
+
+---
 
 <div align="center">
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Sary_3_7-blue?style=flat&logo=telegram)](https://t.me/Sary_3_7) <br>
-</div>
-
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20My%20Core%20Skills-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Front-End Development](https://img.shields.io/badge/Front--End%20Development-black?style=flat&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I'm a third-year **Computer Science** student at university. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I'm passionate about **Front-End Development** and **programming**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **programming, movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: **[Sary_3_7](https://t.me/Sary_3_7)**<br>
--   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+  <sub>Last refreshed in 2026 · Always learning, always shipping with care.</sub>
 </div>
